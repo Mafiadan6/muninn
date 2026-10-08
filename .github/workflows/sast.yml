@@ -66,4 +66,4 @@ jobs:
           cmake --build build
 
       - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@eda5730a8bfb740e03a28087a958444c646e5842 # v4
+        uses: github/codeql-action/analyze@e0b52dbdc5c3376dd8cb78e956fd23fa07ca2c5b # v4
